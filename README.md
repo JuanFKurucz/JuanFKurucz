@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+- Top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFKurucz)](https://github.com/anuraghazra/github-readme-stats)
+
+- Wakatime card
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JuanFKurucz)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **JuanFKurucz/JuanFKurucz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
